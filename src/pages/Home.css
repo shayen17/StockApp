@@ -1,0 +1,27 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 2rem;
+    margin-top: 10rem;
+  }
+  
+  .home-image {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 25px;
+    margin-bottom: 1.5rem;
+  }
+  
+  .home-text h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .home-text p {
+    font-size: 1.8rem;
+    color: #fbfcfc;
+  }
+  
